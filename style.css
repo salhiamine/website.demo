@@ -38,8 +38,8 @@
   display: list-item;
 }
 .teleport-show {
-  display: flex !important;
-  transform: none !important;
+  display: flexbox;
+  transform: none;
 }
 .Content {
   font-size: 16px;
